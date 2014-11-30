@@ -1,4 +1,4 @@
-require('angular/angular');
+require('angular');
 
 require('./module1/module1.module.js');
 
